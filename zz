@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<h1>Hello，world.</h1>
+$('p'),ready('color','red');
+alert("what is this?")
